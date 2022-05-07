@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APILogin PHP</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="fullname">fullname</string>
+    <string name="signup">SignUp</string>
+    <string name="email">email</string>
+    <string name="loginhere">
+Already have an account?
+<u>Login</u>
+
+</string>
+
+    <string name="signuphere">Create a new account? Signup</string>
+</resources>
